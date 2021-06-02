@@ -6,6 +6,8 @@ authors = ["Muhannad <Muhannadalmughrabi233@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+nltk = "^3.6.2"
+Corpus = "^0.4.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
